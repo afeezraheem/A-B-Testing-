@@ -2,6 +2,15 @@
 
 A/B testing is arguably one of the most popular applications of machine learning and statistics in the real world. It is often used in comparison between two versions of the same marketing asset, such as a web page, promo ad or even new product features, that you expose to equal halves of your audience. Based on conversion rates or other metrics, you can decide which one performs best.
 
+Retention analysis can help companies figure out why and how their customers are leaving while offering valuable insight into how to change it. This analysis will emable companies uncover insights such as:
+
+-Why customers are churning.
+-When customers are more likely to leave.
+-How churning affects your bottom line.
+-How to improve your retention strategies.
+
+Overall, this analysis allows you to see how well your customer retention efforts are working. Without it, you may end up spending your marketing budget inefficiently.
+
 
 In this project, I attempted to test the conversion rates of 2 groups (treatment and control groups) exposed to different landing pages. I collected publicly available data set, comprising 29,000 records, from Kaggle for this analysis. My goal was to evalaute and test the validity of the null hypothesis (i.e. the difference in probability of conversion between the 2 groups is negligible)
 
