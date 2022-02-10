@@ -47,4 +47,8 @@ https://stackoverflow.com/questions/20864847/probability-to-z-score-and-vice-ver
 
 https://www.statsmodels.org/stable/generated/statsmodels.stats.power.NormalIndPower.html
 
+Best:
+
+https://stackoverflow.com/questions/20864847/probability-to-z-score-and-vice-versa
+
 
