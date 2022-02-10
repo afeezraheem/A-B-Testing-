@@ -14,14 +14,16 @@ Overall, this analysis allows you to see how well your customer retention effort
 
 In this project, I attempted to test the conversion rates of 2 groups (treatment and control groups) exposed to different landing pages. I collected publicly available data set, comprising 29,000 records, from Kaggle for this analysis. My goal was to evalaute and test the validity of the null hypothesis (i.e. the difference in probability of conversion between the 2 groups is negligible)
 
-Interestingly, as I found out, it turns out that probability of conversion is higher among the control groups than the treatment group, but the difference is not significant enough to reject the null hypothesis).
+Interestingly, as I found out, it turns out that probability of conversion is higher among the control groups than the treatment group, but the difference is not significant enough to reject the null hypothesis
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Terms for viewers who might be viewing my work:
 
 --Baseline rate — an estimate of the metric being analyzed before making any changes
 
---Practical significance level — the minimum change to the baseline rate that is useful to the business, for example an increase in the conversion rate of 0.001% may not be worth the effort required to make the change whereas a 2% change wilfl be
+--Practical significance level — the minimum change to the baseline rate that is useful to the business, for example an increase in the conversion rate of 0.001% may not be worth the effort required to make the change whereas a 2% change will be.
+
+---While statistical significance shows that an effect exists in a study, practical significance shows that the effect is large enough to be meaningful in the real world. Statistical significance is denoted by p-values whereas practical significance is represented by effect sizes.
 
 --Confidence level — also called significance level is the probability that the null hypothesis (experiment and control are the same) is rejected when it shouldn’t be
 
