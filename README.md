@@ -29,6 +29,10 @@ Terms for viewers who might be viewing my work:
 
 --Sensitivity is the probability that the null hypothesis is not rejected when it should be
 
+--The standard normal distribution, also called the z-distribution, is a special normal distribution where the mean is 0 and the standard deviation is 1. Any normal distribution can be standardized by converting its values into z-scores. Z-scores tell you *how many standard deviations from the mean each value lies*.
+
+--Not all distributions are normal and not all normal distributions are standard - standard has 1 standard deviation and mean of 0. The z score from your experiment is just a multiple of the standard which is taken to be 1 and mean of 0
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data source : https://www.kaggle.com/zhangluyuan/ab-testing
